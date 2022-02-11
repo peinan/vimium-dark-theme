@@ -1,5 +1,5 @@
 # Vimium Dark Theme
-A custom dark theme for the Vimium browser add-on, with code based on [Foldex/vimium-dark-themes](https://github.com/Foldex/vimium-dark-themes). For more custom themes, visit [Vimium's GitHub wiki](https://github.com/philc/vimium/wiki/Theme) on themes. Designed to closely resemble Firefox's user interface.
+A custom dark theme for the Vimium browser add-on, with code based on [gajzl/vimium-dark-theme](https://github.com/gajzl/vimium-dark-theme). For more custom themes, visit [Vimium's GitHub wiki](https://github.com/philc/vimium/wiki/Theme) on themes. Designed to closely resemble Firefox's user interface.
 
 ## Installing Vimium
 
@@ -10,26 +10,19 @@ You can install [Vimium](https://github.com/philc/vimium) from your respective b
 
 [More instructions](https://github.com/philc/vimium)
 
-## Customising Your Vimium's CSS
-
-Copy the code in the [CSS file](https://github.com/gajzl/vimium-dark-theme/blob/main/stylesheet.css) into 'CSS for Vimium UI' inside 'Vimium Options' in your browser's add-ons settings:
-
-- Google Chrome: chrome://extensions/
-- Firefox: about:addons
-
-Note that you may have to reload the page for the custom CSS to take effect.
-
 ---
 ## Screenshots
 
 ### Link Hints
 
-<img width="1378" alt="screenshot-link-hints" src="https://user-images.githubusercontent.com/52131706/103149575-4780e800-479d-11eb-9fb0-30c18f6bfdd5.png">
+<img width="905" alt="ss 2022-02-11 16 29 37" src="https://user-images.githubusercontent.com/5601012/153553007-b702f3db-0cb3-4690-a72b-60086814535b.png">
+<img width="907" alt="ss 2022-02-11 16 37 12" src="https://user-images.githubusercontent.com/5601012/153553461-74712f12-d611-42d5-ab90-4905dc5e528e.png">
+
 
 ### Vomnibar
 
-<img width="1378" alt="screenshot-vomnibar" src="https://user-images.githubusercontent.com/52131706/103149582-5c5d7b80-479d-11eb-8ec8-f0f3a1815b20.png">
+<img width="846" alt="ss 2022-02-11 16 30 55" src="https://user-images.githubusercontent.com/5601012/153553027-b761f4fb-9759-4270-b9b2-6077ddc5185b.png">
 
 ### Heads Up Display
 
-<img width="1378" alt="screenshot-heads-up-display" src="https://user-images.githubusercontent.com/52131706/103149591-67b0a700-479d-11eb-8121-cba4c8feda8a.png">
+<img width="488" alt="ss 2022-02-11 16 32 19" src="https://user-images.githubusercontent.com/5601012/153553041-ff693bc4-82d9-4e4b-9846-6b1b8f7c2c9e.png">
