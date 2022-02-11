@@ -30,7 +30,7 @@
 /* -------- HINTS -------- */
     --bg-hints: #212121;      /* Background color of link hints */
     --border-hints: #F4CA46;  /* Border color of link hints */
-    --fg-hints: #ffffff;      /* Text color of link hints, (don't forget to change `#vimiumHintMarkerContainer div > .matchingCharacter ~ span`) */
+    --fg-hints: #8cd2f5;      /* Text color of link hints, (don't forget to change `#vimiumHintMarkerContainer div > .matchingCharacter ~ span`) */
     --hints-main-fg: #43b1e9  /* Text color of matched hints */
 }
 
